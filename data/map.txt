@@ -1,0 +1,24 @@
+11111111111111111111111111111111
+1 X     ccc                    1
+1       cNc            ccc     1
+1 ccc   ccc            cNc     1
+1 cNc   cNc     ccccc  ccc     1
+1 ccc   ccc     cNcCc          1
+1               ccccc          1
+1ccccccccccccccccccccc         1
+11111111111111111111cc         1
+1cccccccPPcccccccccccc         1
+1      cccc                    1
+1      cNcc            ccccc   1
+1      cccc            ccNcc   1
+1      cccc   ccccc    ccccc   1
+1             ccNcc            1
+1             ccccc            1
+1                              1
+1 ccccc ccccccccccccccccccccccc1
+1 ccCcc cc1111111111111111111111
+1 ccccc ccccccccccccccccccccccc1
+1                              1
+1                         A    1
+1                              1
+11111111111111111111111111111111
